@@ -16,6 +16,8 @@ alias glg='git log --stat --max-count=5'
 alias gdif='git diff'
 alias gci='git commit'
 alias gco='git checkout'
+alias gaa='git add .'
+alias ga='git add'
 
 # Git and svn mix
 alias git-svn-dcommit-push='git svn dcommit && git push github master:svntrunk'
